@@ -21,9 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Rashadcp/Leetcode/tree/master/0027-remove-element) |
 | [2128-reverse-prefix-of-word](https://github.com/Rashadcp/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/Rashadcp/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Rashadcp/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
