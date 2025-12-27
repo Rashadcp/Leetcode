@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rashadcp/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Rashadcp/Leetcode/tree/master/0020-valid-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Rashadcp/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rashadcp/Leetcode/tree/master/0020-valid-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Rashadcp/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
