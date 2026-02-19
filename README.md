@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rashadcp/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Rashadcp/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rashadcp/Leetcode/tree/master/0066-plus-one) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Rashadcp/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Rashadcp/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rashadcp/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Rashadcp/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 <!---LeetCode Topics End-->
